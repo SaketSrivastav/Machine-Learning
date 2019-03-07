@@ -1,4 +1,4 @@
-Data Download and Pre Processing:
+# Data Download and Pre Processing
 1. Download the "Adult Data Set" from this link:http://archive.ics.uci.edu/ml/datasets/Adult
 2. Download the "Credit Card Defualt" data set from this link: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 3. Convert the data files to csv
@@ -19,7 +19,7 @@ Data Download and Pre Processing:
 -open the arff files and make sure to change the class labels. See example below:
 @attribute income_label {0,1}
 
-Create Train and Test Data set: 
+# Create Train and Test Data set
 1.Open Weka and click explorer
 2. Click Open file..
 3. Slect Credit Defualt arff file you created in the previous step
@@ -34,13 +34,13 @@ Create Train and Test Data set:
 13. Save the file and call it testCreditDefualt.arff (this file should be smaller than train file)
 14. Repeat these steps to create train and test files for the Adult data set
 
-Weka Instructions:
+# Weka Instructions
 1. Download the latest version of Weka from this link:https://www.cs.waikato.ac.nz/ml/weka/downloading.html
 2. Download and install latest version of Java from this link: https://www.java.com/en/download/
 3. Upon download, click on Weka and go to tools and package manager
 4. Install SMOTE and GridSearch. Please note that if you don't have a package, you can revisit package explorer to download it. 
 
-Instructions for running the algorithms in Weka:
+# Instructions for running the algorithms in Weka
 1. Decesion Tree: 
 -Click on classify tab
 -Click on Choose and under Meta select CostSensitiveClassfier
