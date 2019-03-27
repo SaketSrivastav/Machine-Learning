@@ -1,4 +1,4 @@
-# Please visit the links below to learn more about the dataset attributes. 
+# Please visit the links below to learn more about the dataset attributes:
 1. http://archive.ics.uci.edu/ml/datasets/Adult
 2. http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
