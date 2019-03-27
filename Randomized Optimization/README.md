@@ -1,4 +1,4 @@
-Requirements to get started: 
+# Requirements to get started: 
 1. Install an IDE called Spyder from: https://www.spyder-ide.org/
 2. Install the latest version of python from Annaconda: https://www.anaconda.com/distribution/
 3. Open your command promt by clicking on start windows and typing cmd.
