@@ -3,11 +3,11 @@ Machine Learning is the area in Artificial Intelligence that is concerned with c
 
 This course consisted for four research projects, a midterm, and a final exam. Please refer to the individual folder to view my research papers. 
 
-**•	Supervised Learning:** Researched on decision trees with some form of pruning, neural networks, boosting, support vector machines, and K-nearest neighbors <br />
+**1) Supervised Learning:** Researched on decision trees with some form of pruning, neural networks, boosting, support vector machines, and K-nearest neighbors <br />
 
-**•	Randomized Optimization:** Researched on randomized hill climbing, simulated annealing, genetic algorithm, and mutual information maximizing input clustering (MIMIC) <br />
+**2) Randomized Optimization:** Researched on randomized hill climbing, simulated annealing, genetic algorithm, and mutual information maximizing input clustering (MIMIC) <br />
 
-**•	Unsupervised Learning and Dimensionality Reduction:** Researched on k-means clustering, expectation maximization, principle component analysis, independent component analysis, randomized projections, and latent Dirichlet allocation <br />
+**3) Unsupervised Learning and Dimensionality Reduction:** Researched on k-means clustering, expectation maximization, principle component analysis, independent component analysis, randomized projections, and latent Dirichlet allocation <br />
 
-**•	Reinforcement Learning:** Researched and solved two Markov Decision Processes using value iteration, policy iteration, and q-learning <br />
+**4) Reinforcement Learning:** Researched and solved two Markov Decision Processes using value iteration, policy iteration, and q-learning <br />
 
