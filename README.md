@@ -7,7 +7,7 @@ This course consisted for four research projects, a midterm, and a final exam. P
 
 **2) Randomized Optimization:** Researched on randomized hill climbing, simulated annealing, genetic algorithm, and mutual information maximizing input clustering (MIMIC) <br />
 
-**3) Unsupervised Learning and Dimensionality Reduction:** Researched on k-means clustering, expectation maximization, principle component analysis, independent component analysis, randomized projections, and latent Dirichlet allocation <br />
+**3) Unsupervised Learning and Dimensionality Reduction:** Researched on k-means clustering, expectation maximization, principle component analysis, independent component analysis, randomized projections, and latent dirichlet allocation <br />
 
 **4) Reinforcement Learning:** Researched and solved two Markov Decision Processes using value iteration, policy iteration, and q-learning <br />
 
