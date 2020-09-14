@@ -1,4 +1,4 @@
-## Machine Learning
+# Machine Learning
 Machine Learning is the area in Artificial Intelligence that is concerned with computational artifacts that modify and improve their performance through experience. In this course, we covered a variety of topics, including statistical supervised and unsupervised learning methods, randomized search algorithms, Bayesian learning methods, and reinforcement learning. The course also covered theoretical concepts such as inductive bias, the PAC and Mistake-bound learning frameworks, minimum description length principle, and Ockham's Razor. This course gave more importance towards understanding how the learning algorithms behaves when different parameters are manipulated and thus, we were allowed to borrow code directly from the internet rather than building it from scratch. Programming languages and technologies used in my research paper included the following: Weka, Python, Eclipse, and Burlap. 
 
 This course consisted for four research projects, a midterm, and a final exam. Please refer to the individual folder to view my research papers. 
